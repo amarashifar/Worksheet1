@@ -1,0 +1,154 @@
+    1  ls
+    2  pwd
+    3  ls
+    4  ls =latr
+    5  ls -latr
+    6  open .bash
+    7  open .bashrc 
+    8  clear
+    9  passwd
+   10  clear
+   11  passwd
+   12  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+   13  ls
+   14  del amazon_reviews_us_Books_v1_02.tsv.gz 
+   15  rm amazon_reviews_us_Books_v1_02.tsv.gz 
+   16  ls
+   17  git --version
+   18  mkdir worksheet1
+   19  ls
+   20  cd worksheet1/
+   21  git init
+   22  ping github.com
+   23  ls
+   24  open wget-log 
+   25  cler
+   26  clear
+   27  ls
+   28  rmdir worksheet1/
+   29  cd worksheet1/
+   30  ls
+   31  rmdir worksheet
+   32  cd ..
+   33  rm -r worksheet1/
+   34  ls
+   35  mkdir Worksheet1
+   36  ls
+   37  cd Worksheet1/
+   38  git init
+   39  git branch
+   40  ls
+   41  git status
+   42  clear
+   43  history > cmds.log
+   44  ls
+   45  open cmds.log 
+   46  ls
+   47  git commit -m "my first commit"
+   48  git remote add origin https://github.com/amarashifar/Worksheet1.git
+   49  git push -u origin main
+   50  git push -u origin master
+   51  git remote add origin https://github.com/amarashifar/Worksheet1.git
+   52  git sstatus
+   53  git status
+   54  clera
+   55  clear
+   56  ks
+   57  cd .. 
+   58  ls
+   59  rm -r Worksheet1/
+   60  ls
+   61  git remote add origin https://github.com/amarashifar/Worksheet1.git
+   62  clear
+   63  ls
+   64  mkdir Worksheet1
+   65  ls
+   66  cd Worksheet1/
+   67  git remote add origin https://github.com/amarashifar/Worksheet1.git
+   68  ls
+   69  git status
+   70  git init
+   71  git status
+   72  vi myFile.txt
+   73  ls
+   74  cd Worksheet1/
+   75  gitinit
+   76  git init
+   77  git branch
+   78  touch myTest.txt
+   79  ls
+   80  git commit -m "my first commit"
+   81  git remote add origin https://github.com/amarashifar/Worksheet1.git
+   82  git status
+   83  git add myTest.txt 
+   84  ls
+   85  ls -lart
+   86  git push -u origin main
+   87  git push -u origin master
+   88  git push -u origin main
+   89  git push -f origin main
+   90  clear
+   91  git branch -M main
+   92  git remote add origin https://github.com/amarashifar/Worksheet1.git
+   93  git push -u origin main
+   94  git push -u origin master
+   95  ls
+   96  cd ..
+   97  ls
+   98  cd Worksheet1/
+   99  git init
+  100  git commit -m "my first commit"
+  101    git config --global user.email "you@example.com"
+  102    git config --global user.email "amiralimarashifar@gmail.com"
+  103  git commit -m "my first commit"
+  104  git remote add origin https://github.com/amarashifar/Worksheet1.git
+  105  git push -u origin master
+  106  git status
+  107  git push -u origin maib
+  108  git push -u origin main
+  109  git remote add origin https://github.com/amarashifar/Worksheet1.git
+  110  git push -u origin main
+  111  git config --global push.autoSetupRemote true
+  112  git push
+  113  ls
+  114  git remote add origin https://github.com/amarashifar/Worksheet1.git
+  115  cd ..
+  116  ls
+  117  rmdir -r Worksheet1/
+  118  rm -r Worksheet1/
+  119  lls
+  120  ls
+  121  clear
+  122  rm -r Worksheet1/
+  123  ls
+  124  rm -p -v Worksheet1/
+  125  rmdir Worksheet1/
+  126  rmdir -r Worksheet1/
+  127  rm -r Worksheet1/
+  128  cd Worksheet1/
+  129  ls
+  130  rm .git/
+  131  cd ..
+  132  rm -r Worksheet1/
+  133  ls
+  134  clear
+  135  mkdir Worksheet1
+  136  cd Worksheet1/
+  137  git remote add origin https://github.com/amarashifar/Worksheet1.git
+  138  git init
+  139  git add test.txt
+  140  git add README.md
+  141  git commit -m "my first commit"
+  142  git config --global user.name "amarashifar"
+  143  git commit -m "my first commit"
+  144  touch myFile.txt
+  145  ls
+  146  git add myFile.txt 
+  147  git commit -m "my full commit"
+  148  git status
+  149  git remote add origin https://github.com/amarashifar/Worksheet1.git
+  150  git push -u origin main
+  151  git push -u origin master
+  152  ls
+  153  git branch
+  154  history > cmds.log
